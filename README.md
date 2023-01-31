@@ -1,6 +1,6 @@
 # random-str-msg-d 🔀
 
-this is a node package, created for practice all it does is give you 1000 random phrases when you run it on the console, one by one, not all at once. It would be too much, don't you think?
+this is a node package, created for practice all it does is give you 500 random phrases when you run it on the console, one by one, not all at once. It would be too much, don't you think?
 
 ## Install
 
