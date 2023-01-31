@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/lightningcode-d/random-str-msg-d/issues"
   },
-  "homepage": "https://github.com/lightningcode-d/random-str-msg-d#readme"
+  "homepage": "https://github.com/lightningcode-d/random-str-msg-d#readme",
   "bin": {
     "random-str-msg-d": ".bin/global.js"
   },
