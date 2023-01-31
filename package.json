@@ -22,7 +22,10 @@
   },
   "homepage": "https://github.com/lightningcode-d/random-str-msg-d#readme",
   "bin": {
-    "random-str-msg-d": ".bin/global.js"
+    "random-str-msg-d": "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
 }
