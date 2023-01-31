@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-d",
+  "version": "1.0.0",
+  "description": "random messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightningcode-d/random-str-msg-d.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "node-modules"
+  ],
+  "author": "DeibyRayo <lightningcode-d>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lightningcode-d/random-str-msg-d/issues"
+  },
+  "homepage": "https://github.com/lightningcode-d/random-str-msg-d#readme"
+}
